@@ -1,6 +1,8 @@
 {
   "spellcheck": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "/",
-  "showInlineTitle": false
+  "attachmentFolderPath": "media",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }

@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0dcaead80bb154a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "244e970807f6a5c6",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "244e970807f6a5c6",
+  "active": "82e487de7b9623ef",
   "lastOpenFiles": [
+    "media/avbild_obsidian_editor.png",
+    "media",
     "Second page.md",
     "README.md"
   ]
