@@ -41,3 +41,7 @@ To increase the chance of success I have set *link format* in Obsidian to `Relat
 ![[media/avbild_obsidian_editor.png]]
 *Screenshot of editing this very file in Obsidian.*
 
+What if I explicitly embed an image using th HTML img tag?
+Well it doesn't work within Obsidian, so there isn't much point anyway.
+<img alt="screenshot" src="media/avbild_obsidian_editor.png" />
+
