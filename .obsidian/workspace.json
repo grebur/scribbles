@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ],
@@ -202,8 +202,10 @@
   },
   "active": "f53814ac6b842d8b",
   "lastOpenFiles": [
-    "_drafts/draft-example.md",
+    "media/wasp.jpg.jpg",
+    "media/wasp.jpg",
     "about.md",
+    "_drafts/draft-example.md",
     "_posts/2024-12-15-first-post.md",
     "_posts",
     "_drafts",
