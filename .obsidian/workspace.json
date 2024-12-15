@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ea1783af58b71468",
+        "id": "2bcdaeacbf19adbc",
         "type": "tabs",
         "children": [
           {
-            "id": "6a1881be79ec1f41",
+            "id": "301a6e1d58dce47b",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/app.json",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (app.json)"
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a1881be79ec1f41",
+  "active": "301a6e1d58dce47b",
   "lastOpenFiles": [
     "index.md",
     "README.md",
