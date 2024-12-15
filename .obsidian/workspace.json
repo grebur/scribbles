@@ -11,16 +11,32 @@
             "id": "301a6e1d58dce47b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "_drafts/draft-example.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "draft-example"
+            }
+          },
+          {
+            "id": "f53814ac6b842d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "301a6e1d58dce47b",
+  "active": "f53814ac6b842d8b",
   "lastOpenFiles": [
+    "_drafts/draft-example.md",
+    "about.md",
+    "_posts/2024-12-15-first-post.md",
+    "_posts",
+    "_drafts",
     "index.md",
     "README.md",
     "index.md.md",
