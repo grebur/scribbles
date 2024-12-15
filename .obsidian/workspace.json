@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-12-15-first-post.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-15-first-post"
+              "title": "index"
             }
           }
         ],
@@ -200,14 +200,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f53814ac6b842d8b",
+  "active": "82e487de7b9623ef",
   "lastOpenFiles": [
+    "_layouts/defaults.html",
+    "_layouts",
+    "assets/css/style.scss",
+    "assets/css",
+    "assets",
+    "_posts/2024-12-15-first-post.md",
     "about.md",
     "index.md",
     "media/wasp.jpg.jpg",
     "media/wasp.jpg",
     "_drafts/draft-example.md",
-    "_posts/2024-12-15-first-post.md",
     "_posts",
     "_drafts",
     "README.md",
