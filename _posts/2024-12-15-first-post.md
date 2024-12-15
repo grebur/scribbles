@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Hello World!"
+permalink: /hello-world
 ---
-
 # Hello World
 
 This is the first post to this blog.
