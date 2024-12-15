@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "492445c8fcd86780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_config.yml.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "_config.yml"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "6d3a50c252f16d5b",
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_config.yml.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _config.yml"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_config.yml.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _config.yml"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -141,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_config.yml.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _config.yml"
+              "title": "Outline of README"
             }
           },
           {
@@ -175,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "492445c8fcd86780",
+  "active": "244e970807f6a5c6",
   "lastOpenFiles": [
-    "README.md",
     "_config.yml.md",
+    "_config.yml",
+    "README.md",
     "media/avbild_obsidian_editor.png",
     "media",
     "Second page.md"
