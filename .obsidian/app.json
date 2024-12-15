@@ -4,5 +4,6 @@
   "attachmentFolderPath": "media",
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "propertiesInDocument": "source"
 }

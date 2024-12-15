@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cfcf0902aefb9897",
+        "id": "ea1783af58b71468",
         "type": "tabs",
         "children": [
           {
-            "id": "244e970807f6a5c6",
+            "id": "6a1881be79ec1f41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/app.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "git-pull-request",
+              "title": "Diff View (app.json)"
             }
           }
         ]
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -112,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -126,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of index"
             }
           },
           {
@@ -154,32 +153,44 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "40ca63e2fe013c03",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "244e970807f6a5c6",
+  "active": "6a1881be79ec1f41",
   "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "index.md.md",
     "_config.yml.md",
     "_config.yml",
-    "README.md",
     "media/avbild_obsidian_editor.png",
     "media",
     "Second page.md"
